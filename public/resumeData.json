@@ -1,0 +1,102 @@
+{
+  "main": {
+    "name": "AMAN DEEP MALIK",
+    "occupation": "",
+    "description": "Web Developer",
+    "image": "profilepic.jpg",
+    "bio": "Hi ! I'm Aman, A Tech Enthusiast, Always willing to learn. I have built several small projects using technologies like React js and Firebase. I aspire to be Full Stack Developer who develops cool stuff that helps mankind! Please have a look at some of my work mentioned in the WORKS section of this website. Thanks for the visit!   ",
+    "contactmessage": "Get in touch for Hiring",
+    "email": "aman.malik781@gmail.com",
+    "phone": "+91 8006527021",
+    "address": {
+      "street": "781 Dadabari",
+      "city": "Kota (Rajasthan)",
+      "state": "",
+      "zip": "324009"
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/amanmalik781/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/aman.malik781/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/amanmalik781",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "University of Petroleum and Energy Studies",
+        "degree": "B.Tech, Computer Science",
+        "graduated": "June 2020",
+        "description": "Graduated with 7.4 CGPA"
+      }
+    ],
+    "work": [
+      {
+        "company": "Cognizant Technology Solutions",
+        "title": "Programmer Analyst",
+        "years": "July 2020 - Present",
+        "description": "Quality Engineer"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "Java",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "Web Development",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "TO-DO app with DARK MODE using React JS",
+        "category": "",
+        "image": "snapchat.jpg",
+        "url": "https://youtu.be/1kGISk5ft2w"
+      },
+      {
+        "title": "Gmail Clone (React JS)",
+        "category": "",
+        "image": "gmail.jpg",
+        "url": "https://youtu.be/b7nrXjS6Dqs"
+      },
+      {
+        "title": "LinkedIn Clone (React JS)",
+        "category": "",
+        "image": "linkedin.jpg",
+        "url": "https://youtu.be/QaYts9sPmcY"
+      }
+    ]
+  }
+  
+}
