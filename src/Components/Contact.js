@@ -45,7 +45,7 @@ const Contact = ({ data }) => {
         <div className="eight columns">
           <form onSubmit={submitForm}>
             <fieldset>
-              <div>
+              {/* <div>
                 <label htmlFor="contactName">
                   Name <span className="required">*</span>
                 </label>
@@ -58,9 +58,9 @@ const Contact = ({ data }) => {
                   name="contactName"
                   onChange={(e) => setName(e.target.value)}
                 />
-              </div>
+              </div> */}
 
-              <div>
+              {/* <div>
                 <label htmlFor="contactEmail">
                   Email <span className="required">*</span>
                 </label>
@@ -73,9 +73,9 @@ const Contact = ({ data }) => {
                   name="contactEmail"
                   onChange={(e) => setEmail(e.target.value)}
                 />
-              </div>
+              </div> */}
 
-              <div>
+              {/* <div>
                 <label htmlFor="contactSubject">Subject</label>
                 <input
                   type="text"
@@ -86,7 +86,7 @@ const Contact = ({ data }) => {
                   name="contactSubject"
                   onChange={(e) => setSubject(e.target.value)}
                 />
-              </div>
+              </div> */}
 
               <div>
                 <label htmlFor="contactMessage">
